@@ -45,7 +45,7 @@ directory is automatically added on top of the python path
 package (i.e. has an ``__init__.py`` file), an implicit namespace package
 or if ``directory`` is in the python path.
 
-Command line options
+Command line options some testing
 --------------------
 
 .. _run_command_line:
